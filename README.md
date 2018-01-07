@@ -1,2 +1,2 @@
 # spring-hibernate-simple-app
-java
+Simple Customer CRUD spring hibernate app
